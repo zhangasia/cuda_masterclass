@@ -1,2 +1,2 @@
 # cuda_masterclass
-视频在[B站]（https://www.bilibili.com/video/av90876895）
+视频地址https://www.bilibili.com/video/av90876895
